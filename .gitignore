@@ -1,0 +1,29 @@
+# Build files and directories
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compiler-generated files
+*.o
+*.o.d
+*.bin
+*.tmp
+*.d
+*.obj
+
+# Executable files
+VertexDisjointPaths
+
+# Graph visualization outputs
+*.dot
+*.png
+
+# Temporary files
+*.log
+*.swp
+*.tmp
+.DS_Store
+
+#
